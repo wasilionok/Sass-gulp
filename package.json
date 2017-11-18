@@ -1,0 +1,19 @@
+{
+  "name": "sass-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasilionok/Sass-gulp.git"
+  },
+  "author": "Agnieszka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasilionok/Sass-gulp/issues"
+  },
+  "homepage": "https://github.com/wasilionok/Sass-gulp#readme"
+}
